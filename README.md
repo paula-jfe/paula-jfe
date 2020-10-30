@@ -39,5 +39,3 @@ I am Pratik! I am working on projects related to data science and deep learning.
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </p>
-
-⭐ From [Pratik Kumar](https://github.com/pr2tik1)
