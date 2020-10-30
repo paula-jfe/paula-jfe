@@ -1,6 +1,8 @@
 ### Hi there 👋 I am
 <img src="https://i.postimg.cc/MK94VyRC/nome2.png">
 
+
+
 I'm a full stack web development student at Trybe and an electronic engineer by graduation. I am passionate about technology, programming and companies that overcome the barriers of digital innovation.
 - 💬 I decided to migrate my career to IT bringing all the business analysis baggage that I acquired during more than 5 years of experience in large companies like Monsanto and Kimberly Clark.
 - 🌱 I am currently finishing my master's degree in technological innovation by UNIFESP. I was certified in the data analyst bootcamp by IGTI and I have basic training in SCRUM, I also have Black belt certification and I can work with the best of agile and traditional project management. 
