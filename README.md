@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/pratik-2.jpg">
 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/jessica-ladislau/)]
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jessica-ladislau/)
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/jessica.fernandes.paula/) 
 [<img src ="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://paula-jfe.github.io/)
 
