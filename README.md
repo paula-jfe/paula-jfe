@@ -17,14 +17,6 @@ Here are some ideas to get you started:
 
 <img src="https://i.postimg.cc/nLkv51k2/nomesombra.png">
 
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jessica-ladislau/)
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/jessica.fernandes.paula/) 
-[<img src ="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://paula-jfe.github.io/)
-
-<p align="center">
-</p>
-
 ### Hi 👋 
 I am Jessica Paula! I am working on projects related to data science and deep learning.
 - 👨🏽‍💻 Current work in deep learning and algorithms.
@@ -46,3 +38,8 @@ I am Jessica Paula! I am working on projects related to data science and deep le
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png" alt="bootstrap" width="40" height="40"/> 
 </p>
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jessica-ladislau/)
+[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/jessica.fernandes.paula/) 
+[<img src ="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://paula-jfe.github.io/)
