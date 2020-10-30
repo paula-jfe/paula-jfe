@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 I am Jessica Paula! I am working on projects related to data science and deep learning.
 - 👨🏽‍💻 Current work in deep learning and algorithms.
 - 🤝 Looking for collaborations in deep learning, analytics and data science.
-- 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
+- 🌐 Visit my [porfolio website](https://paula-jfe.github.io/) for complete background and contact.
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=paula-jfe&show_icons=true&theme=radical&line_height=33">
