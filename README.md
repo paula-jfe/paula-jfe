@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am
 
 <!--
 **paula-jfe/paula-jfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://i.postimg.cc/nLkv51k2/nomesombra.png">
 
-### Hi 👋 
-I am Jessica Paula! I am working on projects related to data science and deep learning.
+! I am working on projects related to data science and deep learning.
 - 👨🏽‍💻 Current work in deep learning and algorithms.
 - 🤝 Looking for collaborations in deep learning, analytics and data science.
 - 🌐 Visit my [porfolio website](https://paula-jfe.github.io/) for complete background and contact.
