@@ -38,4 +38,5 @@ I am Pratik! I am working on projects related to data science and deep learning.
   <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />  
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png" alt="bootstrap" width="40" height="40"/> 
 </p>
