@@ -1,5 +1,4 @@
 ### Hi there 👋 I am
-
 <img src="https://i.postimg.cc/MK94VyRC/nome2.png">
 
 I'm a full stack web development student at Trybe and an electronic engineer by graduation. I am passionate about technology, programming and companies that overcome the barriers of digital innovation.
