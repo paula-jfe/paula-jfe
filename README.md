@@ -12,9 +12,6 @@
   <img align="left" alt="Jessica Ladislau Portfolio Web Page" height="35px" src="https://cdn.iconscout.com/icon/free/png-256/github-152-675522.png" />
 </a>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jessica-ladislau/)
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/jessica.fernandes.paula/) 
-[<img src ="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://paula-jfe.github.io/)
 ![](https://komarev.com/ghpvc/?username=paula-jfe)
 
 <p style='text-align: justify;'> I'm a full-stack web development student at Trybe and an Electronic Engineer by graduation. I am passionate about technology, programming and companies that overcome the barriers of digital innovation.<br />
