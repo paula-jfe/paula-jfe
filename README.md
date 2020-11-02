@@ -3,13 +3,13 @@
 <br />
 
 <a href="https://www.linkedin.com/in/jessica-ladislau/">
-  <img align="left" alt="Jessica LAdislau LinkedIn" width="22px" src="https://icon-library.com/images/linkedin-icon-black-and-white/linkedin-icon-black-and-white-5.jpg" />
+  <img align="left" alt="Jessica LAdislau LinkedIn" width="25px" src="https://icon-library.com/images/linkedin-icon-black-and-white/linkedin-icon-black-and-white-5.jpg" />
 </a>
 <a href="https://www.facebook.com/jessica.fernandes.paula/">
-  <img align="left" alt="Jessica Ladislau Facebook" width="22px" src="https://i.pinimg.com/originals/b7/63/69/b763699fd1fa3bfb374442593ae642e1.png" />
+  <img align="left" alt="Jessica Ladislau Facebook" width="30" src="https://i.pinimg.com/originals/b7/63/69/b763699fd1fa3bfb374442593ae642e1.png" />
 </a>
 <a href="https://paula-jfe.github.io/">
-  <img align="left" alt="Jessica Ladislau Portfolio Web Page" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" />
+  <img align="left" alt="Jessica Ladislau Portfolio Web Page" width="25px" src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" />
 </a>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jessica-ladislau/)
