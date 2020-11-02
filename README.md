@@ -13,6 +13,7 @@
 </a>
 
 ![](https://komarev.com/ghpvc/?username=paula-jfe)
+<br />
 
 <p style='text-align: justify;'> I'm a full-stack web development student at Trybe and an Electronic Engineer by graduation. I am passionate about technology, programming and companies that overcome the barriers of digital innovation.<br />
 - 💬 I decided to migrate my career to IT bringing all the business analysis baggage that I acquired during more than 5 years of experience in large companies like Monsanto and Kimberly Clark.<br />
