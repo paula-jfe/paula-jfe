@@ -6,7 +6,7 @@
   <img align="left" alt="Jessica LAdislau LinkedIn" height="35px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-53-227912.png" />
 </a>
 <a href="https://www.facebook.com/jessica.fernandes.paula/">
-  <img align="left" alt="Jessica Ladislau Facebook" height="32px" src="https://cdn.iconscout.com/icon/free/png-256/facebook-social-media-fb-logo-square-44659.png" />
+  <img align="left" alt="Jessica Ladislau Facebook" height="33px" src="https://cdn.iconscout.com/icon/free/png-256/facebook-social-media-fb-logo-square-44659.png" />
 </a>
 <a href="https://paula-jfe.github.io/">
   <img align="left" alt="Jessica Ladislau Portfolio Web Page" height="35px" src="https://cdn.iconscout.com/icon/free/png-256/github-152-675522.png" />
