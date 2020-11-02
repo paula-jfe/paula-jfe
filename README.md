@@ -46,6 +46,7 @@ console.log(jessica);
 ```
 - ✉ If you want to contact me I am available through the email paula.jfe@gmail.com. Thank you for your visit and see you next time.
 
+<br />
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -55,6 +56,7 @@ console.log(jessica);
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png" alt="bootstrap" width="40" height="40"/> 
 </p>
+<br />
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=paula-jfe&show_icons=true&theme=radical&line_height=33">
