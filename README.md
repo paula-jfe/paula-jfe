@@ -48,13 +48,13 @@ console.log(jessica);
 
 <br />
 <p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />  
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png" alt="bootstrap" width="40" height="40"/> 
+  <img src="https://cdn.iconscout.com/icon/free/png-256/html5-457952.png" alt="html5" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/css-116-555915.png" alt="css3" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2336958-1982839.png" alt="javascript" width="40" height="40"/>
+  <img src="https://i.postimg.cc/fWjjrBsk/jestlogo.png" alt="jest" width="40" height="40" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/react-native-555397.png" alt="react" width="40" height="40"/>
+  <img src="https://www.shareicon.net/data/256x256/2016/06/19/603784_nodejs_512x512.png" alt="nodejs" width="40" height="40"/>
+  <img src="https://www.shareicon.net/data/2016/06/20/606737_black_256x256.png" alt="bootstrap" width="40" height="40"/>
 </p>
 <br />
 
