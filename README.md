@@ -48,8 +48,8 @@ console.log(jessica);
 
 <br />
 <p align="center">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/html5-457952.png" alt="html5" width="40" height="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/css-116-555915.png" alt="css3" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/html5-20-734983.png" alt="html5" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/css-2749248-2284638.png" alt="css3" width="40" height="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2336958-1982839.png" alt="javascript" width="40" height="40"/>
   <img src="https://i.postimg.cc/fWjjrBsk/jestlogo.png" alt="jest" width="40" height="40" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/react-native-555397.png" alt="react" width="40" height="40"/>
