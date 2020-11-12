@@ -9,7 +9,7 @@
   <img align="left" alt="Jessica Ladislau Facebook" height="33px" src="https://cdn.iconscout.com/icon/free/png-256/facebook-social-media-fb-logo-square-44659.png" />
 </a>
 <a href="https://paula-jfe.github.io/">
-  <img align="left" alt="Jessica Ladislau Portfolio Web Page" height="30px" src="https://www.shareicon.net/data/256x256/2015/12/06/683021_tool_512x512.png" />
+  <img align="left" alt="Jessica Ladislau Portfolio Web Page" height="33px" src="https://www.shareicon.net/data/256x256/2015/12/06/683021_tool_512x512.png" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=paula-jfe)
