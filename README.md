@@ -1,5 +1,5 @@
 ### Hi there 👋 I am
-<img src="https://i.postimg.cc/MK94VyRC/nome2.png">
+<img src="https://i.postimg.cc/cLmdYdsR/name.png">
 <br />
 
 <a href="https://www.linkedin.com/in/jessica-ladislau/">
