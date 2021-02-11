@@ -1,5 +1,6 @@
 ### Hi there 👋 I am
-<img src="https://i.postimg.cc/PJpqz96t/name.png">
+<img align="left" alt="my name" width="200px" src="https://i.postimg.cc/PJpqz96t/name.png">
+<img align="right" alt="my octocat" width="200px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1613050210697.png" />
 <br />
 
 <a href="https://www.linkedin.com/in/jessica-ladislau/">
@@ -16,11 +17,9 @@
 <br />
 <br />
 
-<p  align="left" style='text-align: justify;'> I'm a full-stack web development student at Trybe and an Electronic Engineer by graduation. I am passionate about technology, programming and companies that overcome the barriers of digital innovation.<br />
+<p  style='text-align: justify;'> I'm a full-stack web development student at Trybe and an Electronic Engineer by graduation. I am passionate about technology, programming and companies that overcome the barriers of digital innovation.<br />
 - 💬 I decided to migrate my career to IT bringing all the business analysis baggage that I acquired during more than 5 years of experience in large companies like Monsanto and Kimberly Clark.<br />
 - 🌱 I am currently finishing my master's degree in technological innovation by UNIFESP and recently I was certified in the data analyst bootcamp by IGTI. I have basic training in SCRUM and I also have Black Belt certification so I can work with the best of agile and traditional project management. </p>
-
-<img align="right" alt="my octocat" width="200px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1613050210697.png" />
 
 ```javascript
 const jessica = {
