@@ -1,7 +1,7 @@
 ### Hi there 👋 I am
 <div>
-  <img align="left" alt="my name" width="80%" src="https://i.postimg.cc/PJpqz96t/name.png">
-  <img align="right" alt="my octocat" width="20%" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1613050210697.png" />
+  <img align="left" alt="my name" width="90%" src="https://i.postimg.cc/PJpqz96t/name.png">
+  <img align="right" alt="my octocat" width="10%" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1613050210697.png" />
 </div>
 
 <br />
