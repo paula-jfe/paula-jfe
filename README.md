@@ -1,6 +1,6 @@
 ### Hi there 👋 I am
-<img align="left" alt="my name" width="200px" src="https://i.postimg.cc/PJpqz96t/name.png">
-<img align="right" alt="my octocat" width="200px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1613050210697.png" />
+<img align="left" alt="my name" width="70%" src="https://i.postimg.cc/PJpqz96t/name.png">
+<img align="right" alt="my octocat" width="30%" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1613050210697.png" />
 <br />
 
 <a href="https://www.linkedin.com/in/jessica-ladislau/">
