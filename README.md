@@ -49,16 +49,6 @@ console.log(jessica);
 - ✉ If you want to contact me I am available through the email paula.jfe@gmail.com. Thank you for your visit and see you next time.
 
 <br />
-<p align="center">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/html5-20-734983.png" alt="html5" width="40" height="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/css-2749248-2284638.png" alt="css3" width="40" height="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2336958-1982839.png" alt="javascript" width="40" height="40"/>
-  <img src="https://i.postimg.cc/fWjjrBsk/jestlogo.png" alt="jest" width="40" height="40" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/react-native-555397.png" alt="react" width="40" height="40"/>
-  <img src="https://www.shareicon.net/data/256x256/2016/06/19/603784_nodejs_512x512.png" alt="nodejs" width="40" height="40"/>
-  <img src="https://www.shareicon.net/data/2016/06/20/606737_black_256x256.png" alt="bootstrap" width="40" height="40"/>
-</p>
-<br />
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=paula-jfe&show_icons=true&theme=radical&line_height=33">
