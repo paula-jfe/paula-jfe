@@ -51,6 +51,6 @@ console.log(jessica);
 <br />
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=paula-jfe&show_icons=true&theme=radical&line_height=33">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=paula-jfe&hide_langs_below=.25&theme=radical">
+  <!-- <img src = "https://github-readme-stats.vercel.app/api?username=paula-jfe&show_icons=true&theme=radical&line_height=33"> -->
+  <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=paula-jfe&hide_langs_below=.25&theme=radical"> -->
 </p>
