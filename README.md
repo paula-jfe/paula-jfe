@@ -1,50 +1,64 @@
-### Hi there 👋 I am
-<div>
-  <img alt="my name" width="100%" src="jessica-name-octocat.png">
-</div>
+# Hi, I'm Jessica 👋
 
-<br />
+**Design Engineer · Software Engineer · AI-assisted builder**
 
-<a href="https://www.linkedin.com/in/jessica-ladislau/">
-  <img align="left" alt="Jessica LAdislau LinkedIn" height="35px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-53-227912.png" />
-</a>
-<a href="https://www.facebook.com/jessica.fernandes.paula/">
-  <img align="left" alt="Jessica Ladislau Facebook" height="33px" src="https://cdn.iconscout.com/icon/free/png-256/facebook-social-media-fb-logo-square-44659.png" />
-</a>
-<a href="https://paula-jfe.github.io/">
-  <img align="left" alt="Jessica Ladislau Portfolio Web Page" height="33px" src="https://www.shareicon.net/data/256x256/2015/12/06/683021_tool_512x512.png" />
-</a>
+I design and build digital experiences where **design, engineering, and AI meet**.
 
-![](https://komarev.com/ghpvc/?username=paula-jfe)
-<br />
-<br />
+* [LinkedIn](https://www.linkedin.com/in/jessica-ladislau/)
+* [Portfolio](https://paula-jfe.github.io/)
+* [Behance](https://www.behance.net/jladislau)
 
-<p  style='text-align: justify;'> I'm a full-stack web developer and an Electronic Engineer by graduation. I am passionate about technology, programming and companies that overcome the barriers of digital innovation.<br />
-- 💬 I decided to migrate my career to IT bringing all the business analysis baggage that I acquired during more than 5 years of experience in large companies like Monsanto and Kimberly Clark.<br />
-- 🌱 I am currently finishing my master's degree in technological innovation by UNIFESP and recently I was certified in the data analyst bootcamp by IGTI. I have basic training in SCRUM and I also have Black Belt certification so I can work with the best of agile and traditional project management. </p>
+---
 
-```javascript
+### What I do
+
+* **Design Engineering** — translating design systems and Figma concepts into thoughtful, responsive interfaces
+* **Frontend Engineering** — React, TypeScript, modern CSS, component architecture and accessibility
+* **AI-assisted development** — using AI agents as coding partners while reviewing the code they produce
+* **Full-stack development** — building APIs and backend services when the product needs them
+* **Web quality** — performance, accessibility and security as part of the implementation
+
+### Currently
+
+I'm focused on building **beautiful, fast and accessible interfaces with AI-assisted workflows** — while keeping engineering quality and human review at the center.
+
+```ts
 const jessica = {
-  code: [Javascript, HTML, CSS],
-  tools: [Node, Jest, Bulma, Bootstrap, React, Thunk],
-  projectManagement: {
-                        agile: "Scrum and Kanban",
-                        sixSigma: "Black Belt"
-                      },
-}
+  role: "Design Engineer",
+  focus: [
+    "Frontend Engineering",
+    "Design Systems",
+    "AI-assisted Development",
+    "Accessibility",
+    "Web Performance",
+  ],
+  stack: [
+    "TypeScript",
+    "React",
+    "Node.js",
+    "Jest",
+    "HTML",
+    "CSS",
+  ],
+  principles: [
+    "Design with intention",
+    "Build with quality",
+    "Use AI as a collaborator",
+    "Keep humans in the loop",
+  ],
+};
+```
 
-let newCode = Python;
-let newTool = Express;
+### Tech I enjoy working with
 
-const portfolio = (person, codeToLearn, toolToLearn) => {
-  if (person) {
-  person.code.push(codeToLearn);
-  person.tools.push(toolToLearn);
-  }
-}
+TypeScript · React · Node.js · Jest · HTML · CSS · Tailwind CSS · Git · GitHub · Figma
 
-portfolio(jessica, newCode, newTool);
-console.log(jessica);
+---
+
+<p align="center">
+  <i>Design thoughtfully. Build beautifully. Ship with purpose.</i>
+</p>
+
 ```
 - ✉ If you want to contact me I am available through the email paula.jfe@gmail.com. Thank you for your visit and see you next time.
 
