@@ -51,20 +51,4 @@ const jessica = {
 
 ### Tech I enjoy working with
 
-TypeScript · React · Node.js · Jest · HTML · CSS · Tailwind CSS · Git · GitHub · Figma
-
----
-
-<p align="center">
-  <i>Design thoughtfully. Build beautifully. Ship with purpose.</i>
-</p>
-
-```
-- ✉ If you want to contact me I am available through the email paula.jfe@gmail.com. Thank you for your visit and see you next time.
-
-<br />
-
-<p align = "center">
-  <!-- <img src = "https://github-readme-stats.vercel.app/api?username=paula-jfe&show_icons=true&theme=radical&line_height=33"> -->
-  <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=paula-jfe&hide_langs_below=.25&theme=radical"> -->
-</p>
+**TypeScript · React · Node.js · Jest · HTML · CSS · Tailwind CSS · Git · GitHub · Figma**
